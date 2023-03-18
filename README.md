@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Oleg</h1>
-<h3 align="center">A Node.js Developer from Lviv, Ukraine</h3>
-
 <!-- <h3 align="left">Connect with me:</h3> -->
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olegv999) 
